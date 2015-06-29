@@ -2,8 +2,6 @@
 
 [npm-image]: https://img.shields.io/npm/v/object-defaults.svg?style=flat
 [npm-url]: https://npmjs.org/package/object-defaults
-[size-image]: https://img.shields.io/badge/size-1.3kb-brightgreen.svg?style=flat
-[size-url]: https://raw.githubusercontent.com/ngryman/object-defaults/master/dist/object-defaults.min.js
 [travis-image]: https://img.shields.io/travis/ngryman/object-defaults.svg?style=flat
 [travis-url]: https://travis-ci.org/ngryman/object-defaults
 
