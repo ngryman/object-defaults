@@ -1,4 +1,4 @@
-# simulator [![npm][npm-image]][npm-url] [![size][size-image]][size-url] [![travis][travis-image]][travis-url]
+# simulator [![npm][npm-image]][npm-url] [![travis][travis-image]][travis-url]
 
 [npm-image]: https://img.shields.io/npm/v/object-defaults.svg?style=flat
 [npm-url]: https://npmjs.org/package/object-defaults
