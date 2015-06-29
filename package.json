@@ -1,0 +1,34 @@
+{
+  "name": "object-defaults",
+  "version": "0.0.0",
+  "description": "Like _.defaults, assigns properties of source objects to a target, without overriding existing ones.",
+  "author": "Nicolas Gryman <ngryman@gmail.com> (http://ngryman.sh)",
+  "license": "MIT",
+  "repository": "ngryman/object-defaults",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "eslint *.js",
+    "test": "mocha test.js",
+    "watch": "onchange *.js -- npm test"
+  },
+  "keywords": [
+    "object",
+    "assign",
+    "extend",
+    "mixin",
+    "defaults",
+    "properties",
+    "options"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "eslint": "^0.24.0",
+    "eslint-config-ngryman": "^0.2.0",
+    "mocha": "^2.2.5",
+    "onchange": "^1.1.0"
+  }
+}
