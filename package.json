@@ -1,6 +1,6 @@
 {
   "name": "object-defaults",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Like _.defaults, assigns properties of source objects to a target, without overriding existing ones.",
   "author": "Nicolas Gryman <ngryman@gmail.com> (http://ngryman.sh)",
   "license": "MIT",
